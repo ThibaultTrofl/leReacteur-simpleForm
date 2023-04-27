@@ -14,7 +14,9 @@ function App() {
   return (
     <>
       <Header />
-      <Form />
+      <main>
+        <Form />
+      </main>
     </>
   );
 }
